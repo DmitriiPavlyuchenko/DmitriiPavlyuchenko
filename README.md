@@ -21,6 +21,7 @@
 ![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=1195F5)
 
 ### My Codewars profile:
+[<img align="left" alt="CodeWars" width="350px" src="https://www.codewars.com/users/Dorshichek/badges/large" />][codewars]
 
 
 
