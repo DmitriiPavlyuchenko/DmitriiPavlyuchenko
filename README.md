@@ -14,8 +14,8 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=GIT&logoColor=CC0000)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-000?style=for-the-badge&logo=figma&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-000?style=for-the-badge&logo=jest&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-000?style=for-the-badge&logo=figma&logoColor=CC0000)
+![Jest](https://img.shields.io/badge/-jest-000?style=for-the-badge&logo=jest&logoColor=CC0000)
 
 ### Follow Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Dorshichek)
